@@ -47,7 +47,7 @@
                         ownership: "borrowed"
                     }
                 ],
-                filters: ["bought", " borrowed"],
+                filters: ["bought", "borrowed"],
                 holding: "bought"
             };
         },
